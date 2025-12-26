@@ -1,4 +1,4 @@
-package ru.netology.Qa126.JavaQaHomework6.servecice;
+package ru.netology.Qa126.JavaQaHomework6.services;
 
 public class SalesService {
 
